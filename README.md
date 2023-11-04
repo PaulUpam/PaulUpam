@@ -1,4 +1,4 @@
-![Frontend Web Developer ](https://media.licdn.com/dms/image/D5616AQHULgbT5SogHw/profile-displaybackgroundimage-shrink_350_1400/0/1685347528942?e=1691020800&v=beta&t=dxqGBqXZUHA8LPTsiZBTA5OBm-Wz1od4YJ6hhigyNRU)
+[Frontend Web Developer ](https://media.licdn.com/dms/image/D5616AQHULgbT5SogHw/profile-displaybackgroundimage-shrink_350_1400/0/1685347528942?e=1691020800&v=beta&t=dxqGBqXZUHA8LPTsiZBTA5OBm-Wz1od4YJ6hhigyNRU)
 ### Hi there 👋, My name is Upam Paul
 #### Frontend Web Developer 
 
