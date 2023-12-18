@@ -5,7 +5,7 @@
 
 Hi there! I'm Upam Paul, a professional  Web Developer and Digital Marketer  with 2 years of experience. I specialize in designing and developing professional WordPress websites that cater to your business needs. Alongside my web development skills, I have expertise in various areas of digital marketing. These include Facebook ads campaign management, social media management, lead generation, data entry, and search engine optimization (SEO). With my diverse skill set, I can help your business thrive in the online space. Let's collaborate to create an impressive online presence for your brand.
 
-Skills: HTML / CSS / REACT / Bootstrap / Wordpress/SEO/Social Media Marketing
+Skills: HTML / CSS / JAVASCRIPT/ REACT / Bootstrap / TAILWIND CSS/ Wordpress Website /SEO / Social Media Marketing
 
 - 🔭 I’m currently working on Wordpress 
 - 🌱 I’m currently learning JavaScript 
