@@ -3,7 +3,7 @@
 #### Frontend Web Developer 
 
 
-Hi there! I'm Upam Paul, a professional Digital Marketer and Web Developer with 2 years of experience. I specialize in designing and developing professional WordPress websites that cater to your business needs. Alongside my web development skills, I have expertise in various areas of digital marketing. These include Facebook ads campaign management, social media management, lead generation, data entry, and search engine optimization (SEO). With my diverse skill set, I can help your business thrive in the online space. Let's collaborate to create an impressive online presence for your brand.
+Hi there! I'm Upam Paul, a professional  Web Developer and Digital Marketer  with 2 years of experience. I specialize in designing and developing professional WordPress websites that cater to your business needs. Alongside my web development skills, I have expertise in various areas of digital marketing. These include Facebook ads campaign management, social media management, lead generation, data entry, and search engine optimization (SEO). With my diverse skill set, I can help your business thrive in the online space. Let's collaborate to create an impressive online presence for your brand.
 
 Skills: HTML / CSS / REACT / Bootstrap / Wordpress/SEO/Social Media Marketing
 
